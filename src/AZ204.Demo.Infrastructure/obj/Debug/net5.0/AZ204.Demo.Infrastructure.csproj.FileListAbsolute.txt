@@ -1,0 +1,15 @@
+D:\Documents\Azure\practice\demo-app\AZ204.Demo\src\AZ204.Demo.Infrastructure\bin\Debug\net5.0\AZ204.Demo.Domain.dll
+D:\Documents\Azure\practice\demo-app\AZ204.Demo\src\AZ204.Demo.Infrastructure\obj\Debug\net5.0\AZ204.Demo.Infrastructure.csprojAssemblyReference.cache
+D:\Documents\Azure\practice\demo-app\AZ204.Demo\src\AZ204.Demo.Infrastructure\obj\Debug\net5.0\AZ204.Demo.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Azure\practice\demo-app\AZ204.Demo\src\AZ204.Demo.Infrastructure\obj\Debug\net5.0\AZ204.Demo.Infrastructure.AssemblyInfoInputs.cache
+D:\Documents\Azure\practice\demo-app\AZ204.Demo\src\AZ204.Demo.Infrastructure\obj\Debug\net5.0\AZ204.Demo.Infrastructure.AssemblyInfo.cs
+D:\Documents\Azure\practice\demo-app\AZ204.Demo\src\AZ204.Demo.Infrastructure\bin\Debug\net5.0\AZ204.Demo.Infrastructure.deps.json
+D:\Documents\Azure\practice\demo-app\AZ204.Demo\src\AZ204.Demo.Infrastructure\bin\Debug\net5.0\AZ204.Demo.Infrastructure.dll
+D:\Documents\Azure\practice\demo-app\AZ204.Demo\src\AZ204.Demo.Infrastructure\bin\Debug\net5.0\ref\AZ204.Demo.Infrastructure.dll
+D:\Documents\Azure\practice\demo-app\AZ204.Demo\src\AZ204.Demo.Infrastructure\bin\Debug\net5.0\AZ204.Demo.Infrastructure.pdb
+D:\Documents\Azure\practice\demo-app\AZ204.Demo\src\AZ204.Demo.Infrastructure\bin\Debug\net5.0\AZ204.Demo.Domain.pdb
+D:\Documents\Azure\practice\demo-app\AZ204.Demo\src\AZ204.Demo.Infrastructure\obj\Debug\net5.0\AZ204.Demo.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Documents\Azure\practice\demo-app\AZ204.Demo\src\AZ204.Demo.Infrastructure\obj\Debug\net5.0\AZ204.Demo.Infrastructure.csproj.CopyComplete
+D:\Documents\Azure\practice\demo-app\AZ204.Demo\src\AZ204.Demo.Infrastructure\obj\Debug\net5.0\AZ204.Demo.Infrastructure.dll
+D:\Documents\Azure\practice\demo-app\AZ204.Demo\src\AZ204.Demo.Infrastructure\obj\Debug\net5.0\ref\AZ204.Demo.Infrastructure.dll
+D:\Documents\Azure\practice\demo-app\AZ204.Demo\src\AZ204.Demo.Infrastructure\obj\Debug\net5.0\AZ204.Demo.Infrastructure.pdb
